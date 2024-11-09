@@ -1,2 +1,2 @@
 # appmedia
-Aula 08/11 de calculo de média 
+Aula 08/11 de calculo de media 
